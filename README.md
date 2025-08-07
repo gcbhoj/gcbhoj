@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Sql and Java**
 
-- 🌱 I’m currently working on a Web Application targeting early learnes with games targeting cognetive and basic math problems, The program creats it own questions and checks for answers.
+- 🌱 I’m currently working on an interactive web application aimed at early learners (ages 4–8), combining engaging games and dynamically generated basic math problems to support cognitive skill development and foundational education.
 
 - 🤝 I’m looking for help with **Areas to Improve**
 
