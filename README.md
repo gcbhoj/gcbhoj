@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Sql and Java**
 
-- 🌱 I’m currently working on ** Creating a Library Management System using Spring Boot **
+- 🌱 I’m currently working on a Web Application targeting early learnes with games targeting cognetive and basic math problems, The program creats it own questions and checks for answers.
 
 - 🤝 I’m looking for help with **Areas to Improve**
 
