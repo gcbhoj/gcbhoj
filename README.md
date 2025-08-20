@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoj GC</h1>
 <h3 align="center">A passionate Student pursing a career in Software Development</h3>
 
-- 🔭 I’m currently working on **Backend Sql and Java**
+- 💬 Currently learning Socket.IO by building a real-time chat application. Exploring event-driven architecture and WebSocket communication to deepen my understanding of full-stack development.
 
 - 🌱 I’m currently working on an interactive web application aimed at early learners (ages 4–8), combining engaging games and dynamically generated basic math problems to support cognitive skill development and foundational education.
 
